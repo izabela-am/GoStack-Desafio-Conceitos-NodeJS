@@ -1,8 +1,10 @@
 <p align="center">
-  <img width="200" height="163" src="https://camo.githubusercontent.com/8c13dc2618dbd7f76d1d574350b98fdee1335ce5/68747470733a2f2f726f636b6574736561742d63646e2e73332d73612d656173742d312e616d617a6f6e6177732e636f6d2f626f6f7463616d702d6865616465722e706e67">
+  <img width="250" src="https://www.luiztools.com.br/wp-content/uploads/2017/03/nodejs-logo.png">
 </p>
 <h1 align=center>NodeJS Concepts</h1>
 <p align="center">Repository with the first challenge from Rocketseat's GoStack bootcamp.</p>
+
+<img src="https://camo.githubusercontent.com/d25397e9df01fe7882dcc1cbc96bdf052ffd7d0c/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f676f6c64656e2d77696e642f626f6f7463616d702d676f737461636b2f6865616465722d6465736166696f732e706e67">
 
 ## :computer: Tech:
 - NodeJS
