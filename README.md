@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src="https://www.luiztools.com.br/wp-content/uploads/2017/03/nodejs-logo.png">
+  <img width="180" src="https://www.pulseway.com/Images/features/patch/3pp-logos/NodeJS.png">
 </p>
 <h1 align=center>NodeJS Concepts</h1>
 <p align="center">Repository with the first challenge from Rocketseat's GoStack bootcamp.</p>
